@@ -1,0 +1,169 @@
+.div1 {
+    display:flex;
+    border-bottom: 5px solid rgb(175, 171, 171);
+    margin-bottom: 20px;
+}
+.div1>img {
+height:14vh;
+width:12%;
+}
+.div1>h1 {
+    font-size:60px;
+   margin-bottom: 0px;
+}
+.div2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.div2>span {
+    font-size: 20px;
+
+
+}
+.div3>img {
+    height:50vh;
+    width:100%;
+}
+.div4>h1 {
+    font-size: 23px;
+    font-style: bold;
+    padding: 5px;
+    padding-left: 2px;
+    border-bottom: 5px;
+}
+.div4>p {
+    font-size: 7 px;
+    font-style: normal;
+    border-bottom-style:outset;
+    padding-bottom: 10px;
+}
+.div5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom-style: outset;
+}
+.points>li {
+    padding:10px;
+    border-bottom-style: outset;
+}
+.table>th{
+ padding: 40px 100px 40px 100px;
+}
+.box>tr {
+    padding: 40px;
+}
+.box1>tr {
+    padding: 100px;
+}
+.bri {
+    margin-bottom: 0px;
+}
+.sun {
+    margin: 0px;
+}
+.picture {
+    height:20vh;
+    width:25%;
+    display:flex;
+    margin-bottom:10px;
+}
+.picture >h {
+    font-size: 30px;
+}
+.temp >td{
+    padding-left: 70px;
+}
+.extra {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    border-bottom-style: outset;
+
+}
+.ex1>img {
+  margin-top: 20px;
+  display: block
+
+}
+.ex1 {
+  
+    display:flex;
+    flex-direction: row;
+}
+
+.ex1>div>p {
+    font-size: 20px;
+}
+.ex1>div {
+    margin-left: 10px;
+}
+.ex2>img {
+    margin-top: 20px;
+    display: block
+  
+  }
+  .ex2 {
+    
+      display:flex;
+      flex-direction: row;
+  }
+  
+  .ex2>div>p {
+      font-size: 20px;
+  }
+  .ex2>div {
+      margin-left: 10px;
+  }
+.ex3>img {
+    margin-top: 20px;
+    display: block
+ 
+  }
+  .ex3 {
+    
+      display:flex;
+      flex-direction: row;
+  }
+  
+  .ex3>div>p {
+      font-size: 20px;
+      margin-bottom: 0px;
+  }
+  .ex3>div {
+      margin-left: 10px;
+  }
+  .ex4>img {
+    margin-top: 20px;
+    display: block
+
+  }
+  .ex4 {
+    
+      display:flex;
+      flex-direction: row;
+  margin-bottom: 20px;
+    }
+  
+  .ex4>div>p {
+      font-size: 20px;
+  }
+  .ex4>div {
+      margin-left: 10px;
+  }
+  .end {
+      display:flex;
+      flex-direction:row;
+      font-size: 20px;
+      justify-content:space-around;
+      border-bottom-style: outset;
+      border-top-style:groove;
+  }
+  .end>p{
+      display:block;
+  }
+.over {
+    padding-left: 25px;
+}
